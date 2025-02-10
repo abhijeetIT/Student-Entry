@@ -27,7 +27,7 @@ A **Flask + MongoDB** based **Student Entry Management System** to manage studen
 ## ❤️ Connect with Me  
 📧 **Email:** abhijeetj4324@gmail.com  
 📸 **Instagram:** [@_abhijeet_jha_](https://www.instagram.com/_abhijeet_jha_?igsh=YTQ0aGZqc2ZndnVm)
-💼 **LinkedIn:** [Abhijeet Jha]([https://www.linkedin.com/in/abhijeet-jha/](https://www.linkedin.com/in/abhijeet-jha-8a76712b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+💼 **LinkedIn:** [Abhijeet Jha](https://www.linkedin.com/in/abhijeet-jha-8a76712b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 🌍 **GitHub:** [@abhijeetIT](https://github.com/abhijeetIT)  
 
 ---
