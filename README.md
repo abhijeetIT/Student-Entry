@@ -21,7 +21,6 @@ A **Flask + MongoDB** based **Student Entry Management System** to manage studen
 - **Backend:** Flask (Python) 🐍  
 - **Database:** MongoDB 🍃  
 - **Frontend:** HTML, CSS, Bootstrap 🎨  
-- **Deployment:** Gunicorn + Render/Railway 🚀  
 
 ---
 ## ❤️ Connect with Me  
